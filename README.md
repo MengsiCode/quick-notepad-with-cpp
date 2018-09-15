@@ -1,1 +1,1 @@
-# quick-notepad-with-c-
+# quick-notepad-with-cpp
